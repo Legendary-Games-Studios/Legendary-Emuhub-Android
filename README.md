@@ -9,3 +9,7 @@ Steps to install
 
 NOTES:
 Please keep in mind that this is a Work In Progress (WIP) and there may be bugs. More cores will be added in the future.
+
+Builds v1.0.1 and earlier use a different signing key.
+Please uninstall before updating to newer versions.
+This is only required for upgrading from older versions and not for future updates.
