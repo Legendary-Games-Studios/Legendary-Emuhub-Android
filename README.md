@@ -1,5 +1,5 @@
 # Legendary-Emuhub-Android
-The official Repository to Legendary Emuhub Androisd! Legendary Emuhub is a multi system emulator (WIP). It has many planned systems to come.
+The official Repository to Legendary Emuhub Android! Legendary Emuhub is a multi system emulator (WIP). It has many planned systems to come.
 
 Steps to install
 1. Go to releases and pick the version you wish to install
